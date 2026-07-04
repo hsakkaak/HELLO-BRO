@@ -28,7 +28,7 @@ module.exports = {
         langs: {
                 bn: {
                         noInput: "× বেবি, একটি গিটহাব ইউজারনেম তো দাও!\n\nউদাহরণ: {pn} Mahmudx7",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD|\n•WhatsApp: 01836298139",
+                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact SHAAHLOM\n•WhatsApp: 01794197687",
                         info: `>🎀 ইউজার গিটহাব তথ্য
 • নাম: %1
 • ইউজারনেম: %2
@@ -65,7 +65,7 @@ module.exports = {
                 },
                 en: {
                         noInput: "× Baby, please provide a GitHub username!\n\nExample: {pn} Mahmudx7",
-                        error: "× API error: %1. Contact MahMUD for help.\n•WhatsApp: 01836298139",
+                        error: "× API error: %1. Contact SHAAHLOM for help.\n•WhatsApp: 01794197687",
                         info: `>🎀 USER GITHUB INFO
 • Name: %1
 • Username: %2
