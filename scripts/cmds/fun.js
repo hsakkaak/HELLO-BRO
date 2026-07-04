@@ -34,7 +34,7 @@ module.exports = {
                         listFetchErr: "❌ ইফেক্ট লিস্ট লোড করতে ব্যর্থ হয়েছে।",
                         noTarget: "❌ Please message reply or mention someone", // আপনার কাস্টম রিকোয়েস্ট অনুযায়ী চেঞ্জ করা হয়েছে
                         authErr: "You are not authorized to change the author name.",
-                        error: "❌ সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।\n•WhatsApp: 01836298139"
+                        error: "❌ সমস্যা হয়েছে: %1। প্রয়োজনে Contact SHAAHLOM\n•WhatsApp: 01794197687"
                 },
                 en: {
                         noType: "❌ Provide a DIG type! Use 'fun list' to see all available effects.",
