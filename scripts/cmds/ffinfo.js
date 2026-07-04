@@ -29,7 +29,7 @@ module.exports = {
                 bn: {
                         noUid: "• দয়া করে একটি ফ্রি ফায়ার UID দিন।",
                         notFound: "× প্লেয়ার খুঁজে পাওয়া যায়নি!",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact SHAAHLOM।"
                 },
                 en: {
                         noUid: "• Please provide a Free Fire UID.\n\nexample: !ffinfo 404394256",
